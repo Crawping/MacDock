@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>calendar.png</file>
+        <file>clock.png</file>
+        <file>cup.png</file>
+        <file>diary.png</file>
+        <file>firefox.png</file>
+        <file>grass.png</file>
+        <file>house.png</file>
+        <file>phone.png</file>
+        <file>soccer.png</file>
+    </qresource>
+</RCC>
